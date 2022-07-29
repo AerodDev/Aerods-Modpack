@@ -1,2 +1,0 @@
-- Litematica
-- Masa's Litemod Library (Litematica)
