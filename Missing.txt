@@ -2,9 +2,4 @@
 - Continuity
 - Dash Loader
 - Emoji Type
-- EmoteCraft
-- Fabric Capes
 - LambDynamicLights
-- Litematica
-- MaLiLib
-- Shulker Box Tooltip
