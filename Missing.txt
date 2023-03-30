@@ -1,3 +1,13 @@
 
+- Better Sodium Video Settings
+- Continuity
 - Dash Loader
-- Emoji Type
+- Fabric Language Kotlin
+- LambDynamicLights
+- Litematica
+- macOS Input Fixes
+- MaLiLib
+- Replay Mod
+- Sound Physics
+- Yet Another Config Lib
+- Zoomify
