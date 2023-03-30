@@ -1,3 +1,4 @@
 
-- Better Sodium Video Settings Buttonß
+- Better Sodium Video Settings Button
+- Continuity
 - Fabric Language Kotlin
